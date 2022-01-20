@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OlegPeunov/ruller_math-study/static/css/main.638d476f.css",
+    "main.js": "/OlegPeunov/ruller_math-study/static/js/main.f4c43d81.js",
+    "static/media/ruler.png": "/OlegPeunov/ruller_math-study/static/media/ruler.5d79d84a67ba6f591f2c.png",
+    "index.html": "/OlegPeunov/ruller_math-study/index.html",
+    "main.638d476f.css.map": "/OlegPeunov/ruller_math-study/static/css/main.638d476f.css.map",
+    "main.f4c43d81.js.map": "/OlegPeunov/ruller_math-study/static/js/main.f4c43d81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.638d476f.css",
+    "static/js/main.f4c43d81.js"
+  ]
+}
