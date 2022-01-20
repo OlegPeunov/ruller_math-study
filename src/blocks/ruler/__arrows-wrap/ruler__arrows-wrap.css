@@ -1,0 +1,6 @@
+.ruler__arrows-wrap{
+  position: absolute;
+  display: flex;
+  margin-left: 35px;
+  z-index: 2;
+}

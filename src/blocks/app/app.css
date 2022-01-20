@@ -1,0 +1,10 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1440px;
+  background-color: #FCFCFC;
+  margin: 0 auto;
+  height: 100vh;
+}
+

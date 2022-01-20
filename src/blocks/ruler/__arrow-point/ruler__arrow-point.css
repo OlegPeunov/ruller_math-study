@@ -1,0 +1,26 @@
+.ruler__arrow-point{
+  z-index: 2;  
+	
+}
+
+.ruler__arrow-point:before{
+	border: 1px solid red;
+	height: 10px;
+	content: "";
+	position: absolute;
+  top: -11px;
+	left: -5px;
+	transform:rotate(-30deg);
+	
+}
+
+.ruler__arrow-point:after {
+	border: 1px solid red;
+	height: 10px;
+	content: "";
+	position: absolute;
+  top: -11px;
+	left: 0px;
+	transform:rotate(27deg);
+	
+}

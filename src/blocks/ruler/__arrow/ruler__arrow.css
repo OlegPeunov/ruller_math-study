@@ -1,0 +1,14 @@
+.ruler__arrow{
+
+  border: red solid 2px;
+  border-radius: 200% 200% 0% 0% / 400% 400% 0% 0%;
+  border-color: red red transparent red;
+  z-index: 2;
+  margin-bottom: 62px;
+  transition: 0.4s;
+  
+  
+  
+}
+
+
