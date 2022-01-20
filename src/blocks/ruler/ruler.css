@@ -1,0 +1,23 @@
+@import url('./__arrows-wrap/ruler__arrows-wrap.css');
+@import url('./__arrow_container/ruler__arrow_container.css');
+@import url('./__arrow-block/ruler__arrow-block.css');
+@import url('./__numHolder/ruler__numHolder.css');
+@import url('./__input/ruler__input.css');
+@import url('./__arrow/ruler__arrow.css');
+@import url('./__arrow-point-container/ruler__arrow-point-container.css');
+@import url('./__arrow-point/ruler__arrow-point.css');
+@import url('./__img/ruler__img.css');
+@import url('./__arrow_container/_type/ruler__arrow_container_type_show.css');
+@import url('./__input/_type/ruler__input_type_wrong.css');
+@import url('./__input/_type/ruler__input_type_hidden.css');
+@import url('./__input/_type/ruler__input_type_2digits.css');
+
+.ruler{
+  min-height: 300px;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;  
+}
+
+

@@ -1,0 +1,6 @@
+.question__content{
+  display: flex;
+  margin-top: 100px;
+  width: 500px;
+  justify-content: center;
+}

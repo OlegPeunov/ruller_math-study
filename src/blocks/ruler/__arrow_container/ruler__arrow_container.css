@@ -1,0 +1,22 @@
+@keyframes showUp {
+  from {
+    transform: scale(0);
+  }
+
+  to {
+    transform: scale(1);
+  }
+
+}
+
+.ruler__arrow_container{
+  
+  z-index: 2;
+  align-items: flex-end;
+  animation-duration: 1.2s;
+  animation-name: showUp;
+  animation-iteration-count: 1;
+  
+  display: none;  
+  transition: transform 0.4s ease-in;
+}

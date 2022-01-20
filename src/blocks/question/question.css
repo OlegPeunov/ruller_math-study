@@ -1,0 +1,8 @@
+@import url('./__content/question__content.css');
+@import url('./__sign/question__sign.css');
+@import url('./__sign/_type/question__sign_type_hidden.css');
+
+
+.question{
+  display: flex;
+}
